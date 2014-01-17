@@ -1,1 +1,3 @@
-Explain what a branch is, in your own words
+A branch is a separate collection of commits that is separated from other branches. The branch called master is usually used to hold the main code/development. Changes are made on appropriatly titled branches. They are recombined (merged)) with the master branch when the developed feature reaches maturity or abandoned if the feature proves to be unnecessary or difficult to implement. 
+
+The power of branches is the ability to develope on the same code base in parallel.
