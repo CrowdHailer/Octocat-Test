@@ -1,1 +1,2 @@
-Explain what git clone does, in your own words
+git clone is the command to clone a hosted repository to your local machine within the current directory. 
+Cloneing a repository is to create a copy on your machine which you may modify without permission from the original repositories owner
